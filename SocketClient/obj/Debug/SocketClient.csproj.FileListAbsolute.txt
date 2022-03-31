@@ -1,0 +1,7 @@
+C:\Users\artur\Desktop\Projects C,C++,C#\SocketClient\bin\Debug\SocketClient.exe.config
+C:\Users\artur\Desktop\Projects C,C++,C#\SocketClient\bin\Debug\SocketClient.exe
+C:\Users\artur\Desktop\Projects C,C++,C#\SocketClient\bin\Debug\SocketClient.pdb
+C:\Users\artur\Desktop\Projects C,C++,C#\SocketClient\obj\Debug\SocketClient.csproj.AssemblyReference.cache
+C:\Users\artur\Desktop\Projects C,C++,C#\SocketClient\obj\Debug\SocketClient.csproj.CoreCompileInputs.cache
+C:\Users\artur\Desktop\Projects C,C++,C#\SocketClient\obj\Debug\SocketClient.exe
+C:\Users\artur\Desktop\Projects C,C++,C#\SocketClient\obj\Debug\SocketClient.pdb
